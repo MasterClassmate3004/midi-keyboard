@@ -30,6 +30,7 @@ computer and start pressing the keyboard keys and drumpads and experimenting thi
 <br>
 
 <h4>Schematics</h4>
+
 ![Schematics](Images/1.jpeg)
 
 <br>
@@ -37,6 +38,7 @@ computer and start pressing the keyboard keys and drumpads and experimenting thi
 <br>
 
 <h4>PCB Routing</h4>
+
 ![Routing](Images/2.jpeg)
 
 <br>
@@ -44,6 +46,7 @@ computer and start pressing the keyboard keys and drumpads and experimenting thi
 <br>
 
 <h4>PCB Front View</h4>
+
 ![Front View](Images/3.jpeg)
 
 <br>
@@ -51,4 +54,5 @@ computer and start pressing the keyboard keys and drumpads and experimenting thi
 <br>
 
 <h4>PCB Back View</h4>
+
 ![Back View](Images/4.jpeg)
