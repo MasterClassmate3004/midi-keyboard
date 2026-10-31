@@ -1,0 +1,5 @@
+.DS_Store
+*.kicad_prl
+*.lck
+PCB/MIDI_Keyboard/MIDI_Keyboard-backups/
+Images/Timeline 1.mp4

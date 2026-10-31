@@ -1,0 +1,221 @@
+(footprint "MIDI_Keyboard"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4f439364-af5a-4d16-acee-dc7c87905109")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MIDI_Keyboard"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c8ab7659-5b43-4163-992b-5b73df5c5147")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d635f13-1aa7-4725-848a-69fd198a2be3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac2410d6-f565-41f6-8731-456068814a4b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e8cc856f-3349-4064-8c19-b422b0715cd5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -24 56.5)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start -0.5 -0.5)
+				(end 11.5 28.5)
+				(width 0.2)
+				(fill yes)
+			)
+			(gr_rect
+				(start -0.5 28.5)
+				(end 19.5 44.5)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "75788def-c917-4d2f-9fee-559d0fbd0cbc")
+	)
+	(pad "2" smd custom
+		(at -11 63)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start -0.5 -7)
+				(end 15 21)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "608467bc-47c4-47ab-9230-1bf073154b5c")
+	)
+	(pad "3" smd custom
+		(at 3.519509 85.5)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start -6.5 -0.5)
+				(end 21.5 15.5)
+				(width 0.2)
+				(fill yes)
+			)
+			(gr_rect
+				(start 1.5 -29.5)
+				(end 13.5 -0.5)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "41677d2c-8182-4d52-b8e7-2e33f4f8a287")
+	)
+	(pad "4" smd custom
+		(at 18.5 63)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start -0.5 -7)
+				(end 15 21)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "52f328b9-8883-4f67-8df7-856f03425060")
+	)
+	(pad "5" smd custom
+		(at 33 85.5)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start -6.5 -0.5)
+				(end 21.5 15.5)
+				(width 0.2)
+				(fill yes)
+			)
+			(gr_rect
+				(start 1.5 -29.5)
+				(end 13.5 -0.5)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "b71b5e6c-c8c3-4231-a762-df36a1c49c35")
+	)
+	(pad "6" smd custom
+		(at 48 63)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start -0.5 -7)
+				(end 15 21)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "2d31241f-cd42-4dbf-986f-b6e1670f4403")
+	)
+	(pad "7" smd custom
+		(at 75.5 56.5)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start 0.5 -0.5)
+				(end -11.5 28.5)
+				(width 0.2)
+				(fill yes)
+			)
+			(gr_rect
+				(start 0.5 28.5)
+				(end -19.5 44.5)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "e350b5ca-94a1-4a46-9035-dcb55b704d9d")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MIDI_Keypad") (type "KiCad") (uri "/Users/nitya/Documents/Nitya/Projects/Hardware/MIDI_Keyboard/PCB/Symbols and Footprints/MIDI_Keypad.pretty") (options "") (descr ""))
+)
